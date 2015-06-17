@@ -1,0 +1,35 @@
+
+body{
+	background-color:#F5ECCE;
+}
+
+
+* { 
+	font-family: sans-serif;
+} 
+
+a:hover { 
+    background-color: orange;
+}
+span{
+	color : red;
+	font-weight : bold;
+}
+
+#quotes{
+	text-align: center;
+	color : blue;
+}
+
+h1{
+	text-align: center;
+	color: #DF013A;
+}
+
+table1{
+	height:0%;
+	width:85% ;
+	padding:0;
+	border:0;
+	text-align: center;
+}
